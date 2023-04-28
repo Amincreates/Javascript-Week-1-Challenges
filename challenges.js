@@ -44,7 +44,7 @@ if (password < 6)
 {
     // block of code to be executed if condition1 is True
 }
-else if 
+else if
 
 
 
